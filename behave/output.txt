@@ -1,0 +1,6 @@
+https://jsonplaceholder.typicode.com/todos/1
+{
+  "bucket": "jra.philadelphia.routes.s3bucket.useast.ohio",
+  "directory": "dist_dec18",
+  "inputfile": "dec18_test_input.csv"
+}
