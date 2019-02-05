@@ -13,9 +13,9 @@ When we implement a test
 Then behave will test it for us!
 '''
 {
-  "expected": 1,
-  "id": 1,
+  "id": 1,   
+  "userId": 2,
   "title": "delectus aut autem",
-  "completed": false
-}
+  "completed": False
+} 
 '''
